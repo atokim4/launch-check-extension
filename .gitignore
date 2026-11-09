@@ -1,0 +1,8 @@
+node_modules/
+.output/
+.wxt/
+web-ext-artifacts/
+test-results/
+*.log
+.env
+.output-e2e/
